@@ -7,7 +7,7 @@ namespace AddressBook
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Address Book Problem\n Enter the details of the contact");
+            Console.WriteLine("Welcome to Address Book Problem!!!\n\nEnter the details of the contact");
 
             //variables
 
@@ -59,11 +59,7 @@ namespace AddressBook
                 System.Environment.Exit(1);
             }
               
-            Contact contact = new Contact(firstName, lastName, address, city, state, zip, phoneNumber, email);
-
-
-
-
+             AddressBook ab= new AddressBook(firstName, lastName, address, city, state, zip, phoneNumber, email);
 
         }
     }

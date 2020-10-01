@@ -6,11 +6,12 @@ namespace AddressBook
 {
     class Contact
     {
+      
         String firstName, lastName, address, city, state, email;
         String zip, phoneNumber;
         public Contact(String firstName, String lastName, String address, String city, String state, string zip, string phoneNumber, String email)
         {
-            
+
             this.firstName = firstName;
             this.lastName = lastName;
             this.address = address;
@@ -22,5 +23,6 @@ namespace AddressBook
 
             Console.WriteLine("Contact is created");
         }
+
     }
 }
