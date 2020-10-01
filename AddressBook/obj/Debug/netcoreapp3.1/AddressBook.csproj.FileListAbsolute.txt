@@ -10,3 +10,4 @@ C:\Users\saiku\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\Addr
 C:\Users\saiku\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.dll
 C:\Users\saiku\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.pdb
 C:\Users\saiku\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.genruntimeconfig.cache
+C:\Users\saiku\source\repos\AddressBook\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csprojAssemblyReference.cache
